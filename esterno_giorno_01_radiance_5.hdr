@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 8 +X 16
+=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍ=dÍCmØElÐGkÉEhÅ?`¼6U²2Q°3V»6\É:cÖ@mæDtñEuñBpçBnßCmØHsçKuÞaíw¢ô_‚ÖGd».I©1Q¹3WÆ;bÓ@`¦‚TzÉ‚S}Ö‚(F‚GxùHsçQ|éRxÕp•ÒlŒÄb½Xp²F]­A`Â9[Â9W®Yu¦‚r—Û‚u¡ö‚GnÇ‚*C„‚Q|éPsÃIe¡‚¡È€«Ô€[i„foŠhs¨YsÅB^²5J‚Mb‚e„´‚f‹É‚<Zš‚UâPsÃo–ã€Zt¢€ž®®~ºÊÔ”€®£¦€ÅÀî€Uc”;M€Tj¡€Mcp”ÇhËl’Órö€o–ã€˜­Ç}Œ™¥}~€{}âÔÊ}˜ˆ~¢Œ‡~¡Ž–~¥¶~…‡¤~¦´Ý}¡½ç}Zn‰~ŸÅõ}g{‘}ˆžº}˜­Ç}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}›—Ÿ}

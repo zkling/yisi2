@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿8[¿=bÆ=bÄ=aÁ=_½=^º<]¹;[·9Yµ7W²5U°4R¯2Q­1P­1Q°1R´2T·3V»4X¿5ZÃ6\Æ7^Ë9aÏ:cÒ;dÓ;dÔ<eÓ<dÑ;cÎ<cÌ<cË=cÉ=bÆBjÐDkÎFlÌGmÊHkÇGiÂEe¼A_¶<Y¯6R¨2M¥/K¥-J¥,J§,Kª.N±0R¹2WÀ5]Ë9cÖ<iá@nêBrñCtôCtôCsñApë@nä?kÜ>iÕ?iÒBjÐ@kÔCnÔIsÖOw×VÜZ‚ÝX}ÕRtÊGf»<W¬3M£+E)Cž)D¢)G¨,L°/Qº2XÆ7`Ô=jåCuù%@†‚'EŽ‚)G’‚)G’‚'DŒ‚$@…‚Dwù?nè>kÞ=hÕ@kÔ:bÑ;cÎ@iÒT€åf”ö9Q€‚C]‹‚=U‚‚eŒåNnÇ3L¤*Bœ'?œ'B¢)G­,L¶/RÁ3YÍ9dÝ@qó%@†‚,K˜‚Af¼‚HpÊ‚FoË‚<c½‚*K™‚%BŠ‚Buù=jå<eÙ:bÑCkÞ@hÕBjÕS~çB\Œ‚Kf’‚Ic‚AXƒ‚j’ëSuÐ>Z¶0H£+D ,H©-K³.O½0UÈ4ZÐ8_Ô=eÖ,E€‚Cc©‚_‡×‚oœõ‚l›ú‚Sà‚>fÅ‚/T¬‚$?‰‚EuøEpêCkÞP{ïKsáJrÛ\‡êC\ƒ‚G^€‚…°òvœãhŒÛZ{ÐJh¾=V¦:P9S­6V½4WÉ4YÐ5ZÎ7ZÃ9X¯Y}ÊPm¡‚€§ë‚MdƒKd’ƒl›þ‚JvÙ‚5\»‚(F”‚(A‡‚*A€‚P{ï\‰úT|äQw×`ˆÚs—ÉnŒ´e©`{¬e¿fƒÈ`{¿Sg Sa–Oe²GgË@eÚ:aØ7ZÇ5R¨4HSk”Wo’‚–»ð‚\s–ƒYsƒ=U„ƒQ}Ý‚8`½‚+I˜‚-G‚0Iˆ‚\‰ú`ŠìTwÌMl³Ur©›Áí€‡£¿€„œ½€•³å€cvšrˆ¯u‡¬gpŠopŒm}¹bÝS|îDkÞ9Y¹2H‰]uµ€‘²ß€Åù‹®Ú‚VlŠƒSlƒpœê‚IoÁ‚4V§‚*E‰‚/H…‚3Kƒ‚`ŠìXzÁJd{¤ö€xšÍ€°Ðã²¹²ÈØz‹Ÿ€¹Ïí€pzŠuz†ÕÌÔ€€s~ƒˆ³vÞbˆïJoÕ9U£\|×€R_€v¯€wšÅg…¬‚¥×‚y Ø‚Pq¨‚4O†‚OìGoÊV}ÔaˆÛXzÁH^‰s”Ñ€VkŽ€«ÇÇâØ~Ä×Ä~„‹Ïãè¤«¯€ÉÉË€ÐÄ¾€À¤™€óËÏ€‚~˜xˆÂc‚ÓHg¸5J„Of¡€‡˜¾Ylƒ€Ph‰€«äLgŠ‚F`ƒ‚]ƒÀ<Z‘`“ý€g’ë€D]ŒNišH^‰^t˜€–µåi{Žs‚~Îé×}z‡y~ßñÞ~µ¾µ‡…~€¢–Œ€…l`€€cX€Œmf€•~†€`d…Pa“;N€Up´€[i‹›©Á~¬Ãà~o‡¦€«å€Hb…~®ì€Tu¡€Ia‹²è~¤Èþ~UjŽ€d}§€^t˜€¶Çã}žª¼}Ž›£}ŒŒ}…“Œ}¨µ¨}€‚x~µ¯ ~öÞÉ~zmthŠlaŒoj‹uy€v‡noŠ¬ºõ~‚’À~fqŒ~¯¿Þ}³Èâ}ev‰~p‰£~p©~b}”~¨Óø}­È}‹¥¾}™­Ä}®ÁÞ}»Ìë}¶Çã}v|†|×âð{Õáç{€ˆ‡|›¢œ|º¾³|ÜÚÊ|–Œ€}»¦–}Ì­›}Þ·¥}ç»¬}Þ´«}Ã£¢}Š’}–‹š}}zŒ}´¹Ù|¬µÐ|¦²È|ž­À|“¦¸|¤·|”°Æ|ˆ¢¶|vœ|{ž|{Œ™|wƒ|ou€|qw|v|†|ÊÒÚzÊÑ×zÃÉËz¶¹¸z¿¿¸zŽ‰{½±¥{äÐÁ{€ri|…tj|þÚÉ{Ú¹«{À¤ž{Ú¾¾{âÊÏ{ÛÇÑ{Æ¹Å{§¡®{ƒ‚{·¼Îz²¿ÏzÍâöznz†{o}‰{jxƒ{¾ØìzŸ³Ãz|‰”z‘›¦z­·ÂzÀÉÔzÊÒÚz·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z·®­z
